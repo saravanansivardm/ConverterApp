@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UnitConverter</string>
+    <string name="conversion_type">Conversion Type</string>
+    <string name="select_conversion_type">Select Conversion Type</string>
+</resources>
